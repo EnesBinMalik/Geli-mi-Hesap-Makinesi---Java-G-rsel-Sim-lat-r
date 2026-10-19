@@ -1,0 +1,6 @@
+{
+  "name": "Gelişmiş Hesap Makinesi - Java & Görsel Simülatör",
+  "description": "Java Patika 8 fonksiyonlu gelişmiş hesap makinesi, mod alma ve dikdörtgen alan/çevre hesabı, interaktif Java terminal simülatörü ve JavaPatika.java kaynak kodu. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
